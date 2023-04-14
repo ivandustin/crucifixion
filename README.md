@@ -6,15 +6,15 @@ The Tomb is Empty
 
 > Now after the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
 >
-> — Matthew 28:1
+> — _Matthew 28:1_
 
 > On the first day of the week, at early dawn, they went to the tomb, taking the spices they had prepared.
 >
-> — Luke 24:1
+> — _Luke 24:1_
 
 > On the first day of the week Mary Magdalene came to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb.
 >
-> — John 20:1
+> — _John 20:1_
 
 ## 7th Day of the Week
 
@@ -38,7 +38,7 @@ Women Bought Spices
 
 > When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him.
 >
-> — Mark 16:1
+> — _Mark 16:1_
 
 ## 5th Day of the Week
 
@@ -54,7 +54,7 @@ High Sabbath
 
 > On the fifteenth day of the same month is the Feast of Unleavened Bread to the LORD. For seven days, you shall eat unleavened bread. On the first day, you shall have a holy convocation. You shall not do any ordinary work.
 >
-> — Leviticus 23:6-7
+> — _Leviticus 23:6-7_
 
 ## 4th Day of the Week
 
@@ -70,11 +70,11 @@ The Crucifixion and Death of Jesus
 
 > And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath, Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus.
 >
-> — Mark 15:42
+> — _Mark 15:42_
 
 > Since it was the day of Preparation, and so that the bodies would not remain on the cross on the Sabbath (for that Sabbath was a high day), the Jews asked Pilate that their legs might be broken and that they might be taken away.
 >
-> — John 19:31
+> — _John 19:31_
 
 ## 3rd Day of the Week
 
@@ -86,15 +86,15 @@ Preparation for Pesach/Passover Eve
 
 > Then came the day of Unleavened Bread, on which the Passover lamb had to be sacrificed. So Jesus sent Peter and John, saying, "Go and prepare the Passover for us, that we may eat it."
 >
-> — Luke 22:7
+> — _Luke 22:7_
 
 > And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, "Where will you have us go and prepare for you to eat the Passover?"
 >
-> — Mark 14:12
+> — _Mark 14:12_
 
 > Now on the first day of Unleavened Bread the disciples came to Jesus, saying, "Where will you have us prepare for you to eat the Passover?"
 >
-> — Matthew 26:17
+> — _Matthew 26:17_
 
 ### 14th Day of Nisan
 
@@ -106,23 +106,23 @@ The Last Supper
 
 > When it was evening, he reclined at table with the twelve.
 >
-> — Matthew 26:20
+> — _Matthew 26:20_
 
 > And when it was evening, he came with the twelve.
 >
-> — Mark 14:17
+> — _Mark 14:17_
 
 > And when the hour came, he reclined at table, and the apostles with him.
 >
-> — Luke 22:14
+> — _Luke 22:14_
 
 > In the first month, from the fourteenth day of the month at evening, you shall eat unleavened bread until the twenty-first day of the month at evening.
 >
-> — Exodus 12:18
+> — _Exodus 12:18_
 
 > In the first month, on the fourteenth day of the month at twilight, is the LORD's Passover.
 >
-> — Leviticus 23:5
+> — _Leviticus 23:5_
 
 ## NOTE
 
