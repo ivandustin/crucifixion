@@ -14,7 +14,7 @@ Sunday
 
 The Tomb is Empty
 
-> Now after the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
+> After the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
 >
 > — _Matthew 28:1_
 
@@ -80,7 +80,7 @@ The Day of Preparation
 
 1st Night in the Tomb
 
-> And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath, Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus.
+> When evening had come, since it was the day of Preparation, that is, the day before the Sabbath, Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus.
 >
 > — _Mark 15:42_
 
@@ -104,11 +104,11 @@ Preparation for Pesach/Passover Eve
 >
 > — _Luke 22:7_
 
-> And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, "Where will you have us go and prepare for you to eat the Passover?"
+> On the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, "Where will you have us go and prepare for you to eat the Passover?"
 >
 > — _Mark 14:12_
 
-> Now on the first day of Unleavened Bread the disciples came to Jesus, saying, "Where will you have us prepare for you to eat the Passover?"
+> On the first day of Unleavened Bread the disciples came to Jesus, saying, "Where will you have us prepare for you to eat the Passover?"
 >
 > — _Matthew 26:17_
 
@@ -126,11 +126,11 @@ The Last Supper
 >
 > — _Matthew 26:20_
 
-> And when it was evening, he came with the twelve.
+> When it was evening, he came with the twelve.
 >
 > — _Mark 14:17_
 
-> And when the hour came, he reclined at table, and the apostles with him.
+> When the hour came, he reclined at table, and the apostles with him.
 >
 > — _Luke 22:14_
 
