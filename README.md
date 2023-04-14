@@ -76,11 +76,17 @@ Pesach/Passover
 
 The Crucifixion and Death of Jesus
 
+The Day of Preparation
+
 1st Night in the Tomb
 
 > And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath, Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus.
 >
 > — _Mark 15:42_
+
+> It was the day of Preparation, and the Sabbath was beginning.
+>
+> — _Luke 23:54_
 
 > Since it was the day of Preparation, and so that the bodies would not remain on the cross on the Sabbath (for that Sabbath was a high day), the Jews asked Pilate that their legs might be broken and that they might be taken away.
 >
