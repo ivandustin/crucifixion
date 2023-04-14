@@ -126,6 +126,6 @@ The Last Supper
 >
 > — _Leviticus 23:5_
 
-## NOTE
+## Note
 
 The Jewish day begins and ends at sundown.
