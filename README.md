@@ -80,7 +80,7 @@ The Crucifixion and Death of Jesus
 
 Tuesday
 
-### 13th Day of Nisan
+13th Day of Nisan
 
 Preparation for Pesach/Passover Eve
 
@@ -96,9 +96,11 @@ Preparation for Pesach/Passover Eve
 >
 > — _Matthew 26:17_
 
-### 14th Day of Nisan
+### Sundown
 
 At sundown, it is now the beginning of the 14th day of Nisan.
+
+14th Day of Nisan
 
 Pesach/Passover Eve
 
